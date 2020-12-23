@@ -1,0 +1,2 @@
+# autoAdaptCms
+auto adapt cms
